@@ -18,13 +18,13 @@
 
 1. **Campo "Tipo do Quarto"** - Um menu com opções "Normal" e "Premium"
 
-2. **Preço diferente** - Premium custa o dobro do Normal
+2. **Preço diferente** - Premium custa o dobro do Normal.
 
-3. **Valor dinâmico** - Quando o aluno muda o tipo ou a duração, o preço atualiza na tela
+3. **Valor dinâmico** - Quando o aluno muda o tipo ou a duração, o preço atualiza na tela.
 
-4. **Banco de dados** - Agora guarda também se a reserva foi Normal ou Premium
+4. **Banco de dados** - Agora guarda também se a reserva foi Normal ou Premium.
 
-5. **Listagem de reservas** - Mostra qual tipo de quarto foi reservado
+5. **Listagem de reservas** - Mostra qual tipo de quarto foi reservado.
 
 ---
 
