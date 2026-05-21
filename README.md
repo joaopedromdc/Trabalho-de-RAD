@@ -28,8 +28,4 @@ Este código foi desenvolvido com base no enunciado fornecido, pois:
 
 ## Nomes dos Devs
 
-João Pedro
-Júlia Póvoa
-Rafaela Santos
-Mariana Vilela
-Matheus pinheiro
+
