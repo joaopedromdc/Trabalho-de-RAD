@@ -24,3 +24,12 @@ Este código foi desenvolvido com base no enunciado fornecido, pois:
 | Perguntar o tempo esperado | Input validado entre 1 e 4 horas |
 | Verificar se é aluno matriculado | Sistema de validação de matrícula |
 | Reservar quartos | Estrutura de dados para controle de disponibilidade |
+
+
+## Nomes dos Devs
+
+João Pedro
+Júlia Póvoa
+Rafaela Santos
+Mariana Vilela
+Matheus pinheiro
