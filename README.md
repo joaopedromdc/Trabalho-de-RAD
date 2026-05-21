@@ -30,7 +30,7 @@ Este código foi desenvolvido com base no enunciado fornecido, pois:
 
 Foi adicionado classificação "premium" e "normal" aos quartos
 
-João Pedro
+João Pedro Machado
 Júlia Póvoa
 Rafaela Santos
 Mariana Vilela
