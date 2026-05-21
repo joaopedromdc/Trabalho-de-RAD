@@ -26,7 +26,9 @@ Este código foi desenvolvido com base no enunciado fornecido, pois:
 | Reservar quartos | Estrutura de dados para controle de disponibilidade |
 
 
-## Nomes dos Devs
+## 4. Adições pos-deploy
+
+Foi adicionado classificação "premium" e "normal" aos quartos
 
 João Pedro
 Júlia Póvoa
